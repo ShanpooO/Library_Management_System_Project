@@ -1,6 +1,3 @@
-> ***Please carefully read the [Disclaimer of Liability](#disclaimer-of-liability) below first.***  
-> All materials in this archive are for reference only. The actual one may vary. 
-
 # Library Management System
 
 > *A Group Project of Database Systems (COMP2411) subject at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), made by [CHEN Derun](https://github.com/ShanpooO), [JIANG Guanlin](https://github.com/David200308), [KWOK Hin Chi](https://github.com/HaleyKwok), [LIU Minghao](https://github.com/David-Lmh), [YE Haowen](https://github.com/ShanYu0205), and [ZHANG Wengyu](https://github.com/zhangwengyu999), 2022-11-19*
